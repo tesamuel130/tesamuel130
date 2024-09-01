@@ -2,6 +2,21 @@
 
 I'm Samuel Tesfaye from Ethiopia, and I'm a Full-Stack Developer with a deep passion for building scalable web and mobile applications. With over 3 years of experience, I truly enjoy learning new languages and frameworks, such as React, Next.js, and React Native. I am continuously exploring new tools and technologies to stay at the forefront of the industry.
 
+## 🔗 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/your-profile/)
+- [Twitter](https://twitter.com/tesamuel130)
+- [Personal Website](https://yourwebsite.com)
+- [Email](mailto:youremail@example.com)
+
+## 🚀 Skills
+
+- **Languages:** JavaScript, Python, Java, C++
+- **Frameworks & Libraries:** React, Node.js, Express, Django, Flask
+- **Tools & Platforms:** Git, Docker, AWS, Azure, Jenkins
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Other:** Agile, Scrum, CI/CD, TDD
+
 
 
 <!--
