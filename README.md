@@ -10,6 +10,7 @@ I'm Samuel Tesfaye from Ethiopia, and I'm a Full-Stack Developer with a deep pas
 - [Email](mailto:tesamuel130@gmail.com)
 - **Phone:** [+251922984980](tel:+251922984980)
 
+
 ## 🚀 Skills
 
 - **Languages:** JavaScript, Python, Java, C++
