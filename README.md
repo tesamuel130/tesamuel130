@@ -20,5 +20,11 @@ Here are some ideas to get you started:
 -->
 
 ## 📈 GitHub Stats
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tesamuel130&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tesamuel130&layout=compact&theme=dark)
+
+
+## 🖇️ Open to Collaboration
+
+I'm always open to collaborating on interesting projects. If you have an idea or a project that aligns with my skills, feel free to reach out!
