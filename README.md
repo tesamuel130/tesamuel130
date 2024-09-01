@@ -8,16 +8,14 @@ I'm Samuel Tesfaye from Ethiopia, and I'm a Full-Stack Developer with a deep pas
 - [Twitter](https://twitter.com/tesamuel130)
 - [Personal Website](https://tesamuel130.github.io/tesamuel-blog/)
 - [Email](mailto:tesamuel130@gmail.com)
-- **Phone:** [+251922984980](tel:+251922984980)
 
-
+  
 ## 🚀 Skills
 
-- **Languages:** JavaScript, Python, Java, C++
-- **Frameworks & Libraries:** React, Node.js, Express, Django, Flask
-- **Tools & Platforms:** Git, Docker, AWS, Azure, Jenkins
+- **Languages:** JavaScript, HTML, CSS
+- **Frameworks & Libraries:** React, React Native, NextJs, NodeJs, ExpressJs, tailwind, bootstrap 
+- **Tools & Platforms:** Git, GitHub, AWS, Google cloud, Heroku
 - **Databases:** MySQL, PostgreSQL, MongoDB
-- **Other:** Agile, Scrum, CI/CD, TDD
 
 
 
