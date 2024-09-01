@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![](https://visitcount.itsvg.in/api?id=tesamuel130&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
