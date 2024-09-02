@@ -4,7 +4,7 @@ I'm Samuel Tesfaye from Ethiopia, and I'm a Full-Stack Developer with a deep pas
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile/)
+- [LinkedIn](https://www.linkedin.com/in/samuel-tesfaye-487286326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [Twitter](https://twitter.com/tesamuel130)
 - [Email](mailto:tesamuel130@gmail.com)
 - [Personal Website](https://tesamuel130.github.io/tesamuel-blog/)
