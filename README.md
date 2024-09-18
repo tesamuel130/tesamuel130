@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tesamuel130&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tesamuel130&layout=compact&theme=dark)
+![Build Status](https://github.com/tesamuel130/<repository>/workflows/CI/badge.svg)
 
 
 ## 🖇️ Open to Collaboration
