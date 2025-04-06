@@ -12,10 +12,10 @@ I'm Samuel Tesfaye from Ethiopia, and I'm a Full-Stack Developer with a deep pas
   
 ## 🚀 Skills
 
-- **Languages:** JavaScript, HTML, CSS
-- **Frameworks & Libraries:** React, React Native, NextJs, NodeJs, ExpressJs, tailwind, bootstrap 
-- **Tools & Platforms:** Git, GitHub, AWS, Google cloud, Heroku
-- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Languages:** JavaScript, HTML, CSS, Python, TypeScript
+- **Frameworks & Libraries:** React, React Native, NextJs, Expo, Electron, Redux, Zostand, NodeJs, NestJs, ExpressJs, Django, tailwind, bootstrap, MUI,ShadCn ... 
+- **Tools & Platforms:** Git, GitHub, AWS, Google cloud, Heroku, bash
+- **Databases:** MySQL, PostgreSQL, MongoDB, Prisma, TypeORM
 
 
 
