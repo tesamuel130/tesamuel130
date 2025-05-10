@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ## 📈 GitHub Stats
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tesamuel130&show_icons=true&theme=dark)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tesamuel130&show_icons=true&theme=dark) -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tesamuel130&layout=compact&theme=dark)
 
 
